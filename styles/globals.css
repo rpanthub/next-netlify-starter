@@ -27,6 +27,7 @@ code {
 }
 
 .container {
+  background: #87CEFA;
   height: 100vh;
   display: flex;
   flex-direction: column;
