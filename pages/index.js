@@ -11,8 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Atisha/Avalok's Cool app!" />
+        <Header title="Welcome to Atisha/Avalok Awesome app!" />
         <p className="description">
+          Yo yo yo, what up!!!
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
