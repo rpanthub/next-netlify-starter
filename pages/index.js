@@ -15,6 +15,7 @@ export default function Home() {
         <p className="description">
           Believe in your self!!! <br />
           We rock!!! <br />
+          Remember that even a blind squirrel can find nuts once in a while <br />
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
