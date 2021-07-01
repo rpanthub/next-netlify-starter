@@ -14,8 +14,8 @@ export default function Home() {
         <Header title="Welcome to Awesome app!" />
         <p className="description">
           Believe in your self!!! <br />
+          Remember that even a blind squirrel can find nuts once in a while!!! <br />
           We rock!!! <br />
-          Remember that even a blind squirrel can find nuts once in a while <br />
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
