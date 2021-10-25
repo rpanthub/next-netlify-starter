@@ -16,7 +16,7 @@ export default function Home() {
           Believe in your self!!! <br />
           Remember that even a blind squirrel can find nuts once in a while!!! <br />
           When the student is ready, the teacher will appear! <br />
-          We rock!!! <br />
+          We all rock!!! <br />
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
