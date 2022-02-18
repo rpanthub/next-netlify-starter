@@ -14,7 +14,7 @@ export default function Home() {
         <Header title="Welcome to Awesome app!" />
         <p className="description">
           Believe in your self!!! <br />
-          Choose to be happy!!! <br />
+          Happiness comes from within!! <br />
           Remember that even a blind squirrel can find nuts once in a while!!! <br />
           When the student is ready, the teacher will appear! <br />
         </p>
