@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Awesome app!" />
+        <Header title="Famous Quotes!" />
         <p className="description">
           Believe in your self!!! <br />
           Happiness comes from within!! <br />
