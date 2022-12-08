@@ -19,6 +19,7 @@ export default function Home() {
           When the student is ready, the teacher will appear! <br />
           I think, therefore I am !! <br />
           Lead by Example!! <br />
+          Where there is a will there is a way <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
