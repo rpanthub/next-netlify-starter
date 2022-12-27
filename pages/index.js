@@ -21,7 +21,7 @@ export default function Home() {
           Lead by Example!! <br />
           Where there is a will there is a way <br />
           Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself. <br />
-          The greatest glory in living lies not in never falling, but in rising every time we fall. - ...
+          The greatest glory in living lies not in never falling, but in rising every time we fall. <br />
           The way to get started is to quit talking and begin doing.  <br />
           Your time is limited, so don't waste it living someone else's life.  <br />
           If life were predictable it would cease to be life, and be without flavor.  <br />
