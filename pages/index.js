@@ -26,6 +26,8 @@ export default function Home() {
           Your time is limited, so don't waste it living someone else's life.  <br />
           If life were predictable it would cease to be life, and be without flavor.  <br />
           Money Can't buy Happiness. <br />
+          My Pride and joy. <br />
+          The way to get started is to quit talking and begin doing. <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
