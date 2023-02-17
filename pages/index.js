@@ -29,6 +29,7 @@ export default function Home() {
           My Pride and joy. <br />
           The way to get started is to quit talking and begin doing. <br />
           Your time is limited, so don't waste it living someone else's life. <br />
+          You must be the change you wish to see in the world. <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
