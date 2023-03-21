@@ -30,6 +30,7 @@ export default function Home() {
           The way to get started is to quit talking and begin doing. <br />
           Your time is limited, so don't waste it living someone else's life. <br />
           You must be the change you wish to see in the world. <br />
+          Success is not final, failure is not fatal: it is the courage to continue that counts. <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
