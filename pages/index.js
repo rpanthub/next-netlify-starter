@@ -31,6 +31,7 @@ export default function Home() {
           Your time is limited, so don't waste it living someone else's life. <br />
           You must be the change you wish to see in the world. <br />
           Success is not final, failure is not fatal: it is the courage to continue that counts. <br />
+          Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
