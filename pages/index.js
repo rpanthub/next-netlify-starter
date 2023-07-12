@@ -32,6 +32,7 @@ export default function Home() {
           You must be the change you wish to see in the world. <br />
           Success is not final, failure is not fatal: it is the courage to continue that counts. <br />
           Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. <br />
+          Be the change that you wish to see in the world. <br />
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
