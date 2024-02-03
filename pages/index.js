@@ -34,6 +34,7 @@ export default function Home() {
           Two things are infinite: the universe and human stupidity; and I'm not sure about the universe. <br />
           Be the change that you wish to see in the world. <br />
           Be yourself; everyone else is already taken. <br />
+          So many books, so little time. <br /> 
         </p>
         <p className="description">
           Get started by editing <code>pages/index.js</code>
